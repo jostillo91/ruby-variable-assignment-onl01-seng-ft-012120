@@ -5,3 +5,6 @@ languages:
   - ruby
 resources: 2
 
+greeting = "Hello World"
+
+puts greeting
